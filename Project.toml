@@ -1,0 +1,4 @@
+name = "SnowWhite"
+uuid = "9d5e8dcc-a6da-41b2-97e9-0606275290f6"
+authors = ["Mike Franusich <mike.franusich@spiralgen.com>"]
+version = "0.1.0"
